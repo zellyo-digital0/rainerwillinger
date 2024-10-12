@@ -1,0 +1,379 @@
+@media(max-width:1199px){
+    .navbar-brand {
+        width: 40%;
+    }
+
+    .navbar-brand img{
+        width: 30%;
+    }
+
+    .advprc_card h4 {
+        font-size: 11px;
+        padding: 5px;
+    }
+
+    .social {
+        width: 23%;
+    }
+
+    .flogo img {
+        width: 20%;
+    }
+}
+
+@media(max-width:991px) {
+
+    .hero {
+        min-height: 70vh;
+    }
+
+    .navbar-brand img {
+        width: 45%;
+    }
+
+    .nav-item {
+        text-align: center;
+    }
+
+    .hero_content h1 {
+        font-size: 30px;
+        text-align: left;
+    }
+
+    .hero_content p {
+        font-size: 20px;
+        padding: 20px 0px;
+        text-align: left;
+    }
+
+    .hero_button {
+        text-align: lw;
+    }
+
+    .hero_overlay::before {
+        width: 100%;
+        padding: 0px 15px;
+        height: 70vh;
+    }
+
+    .how_content h2 {
+        font-size: 28px;
+    }
+
+    .how {
+        padding: 40px 15px;
+    }
+
+    .how_content p {
+        width: 100%;
+    }
+
+    .how_card {
+        margin-bottom: 30px;
+        padding: 25px 10px;
+        height: 350px;
+    }
+
+    .block {
+        padding: 40px 15px;
+    }
+
+
+    .block_content h2 {
+        width: 100%;
+        font-size: 28px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .block_content p {
+        width: 100%;
+        text-align: center;
+    }
+
+    .btn-block {
+        margin: 0;
+    }
+
+    .block_content {
+        text-align: center;
+        padding-top: 30px;
+    }
+
+    .benefits {
+        padding: 40px 15px;
+    }
+
+    .pricing {
+        padding: 40px 15px 40px 15px;
+    }
+
+    .price_list {
+        padding: 90px 15px 15px 15px;
+        margin-bottom: 90px;
+    }
+
+    .price_des p {
+        font-size: 16px;
+    }
+
+    .btn-price {
+        margin-bottom: -50px;
+    }
+
+    .price_button {
+        padding-top: 10px;
+    }
+
+    .price p {
+        font-size: 25px !important;
+    }
+
+    .advprc_card h4 {
+        font-size: 16px;
+        padding: 5px;
+    }
+
+    .flogo img {
+        width: 30%;
+    }
+
+    .flogo {
+        width: 50%;
+    }
+
+    .social {
+        width: 30%;
+    }
+
+    .social ul li a i {
+        font-size: 13px;
+    }
+
+    .social ul li {
+        width: 40px;
+        height: 40px;
+    }
+
+    .block_image {
+        display: none;
+    }
+
+    .block_lg {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .block_lg img {
+        width: 80%;
+    }
+
+    .block_lg_content {
+        width: 100%;
+    }
+
+    .price_lg_card{
+        width: 80%;
+        margin: auto;
+    }
+
+    .price_list li {
+        justify-content: center;
+    }
+}
+
+
+@media(max-width:767px) {
+
+    .hero {
+        min-height: 70vh;
+    }
+
+    .navbar-brand img {
+        width: 45%;
+    }
+
+    .nav-item {
+        text-align: center;
+    }
+
+    .hero_content h1 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .hero_content p {
+        font-size: 20px;
+        padding: 20px 0px;
+        text-align: center;
+    }
+
+    .hero_button {
+        text-align: center;
+    }
+
+    .hero_overlay::before {
+        width: 100%;
+        padding: 0px 15px;
+        height: 70vh;
+    }
+
+    .how_content h2 {
+        font-size: 28px;
+    }
+
+    .how {
+        padding: 30px 15px;
+    }
+
+    .how_content p {
+        width: 100%;
+    }
+
+    .how_card {
+        margin-bottom: 30px;
+        padding: 25px 10px;
+        height: auto;
+    }
+
+    .block {
+        padding: 30px 15px;
+    }
+
+
+    .block_content h2 {
+        width: 94%;
+        font-size: 28px;
+        text-align: center;
+        margin: auto;
+    }
+
+    .block_content p {
+        width: 100%;
+        text-align: center;
+    }
+
+    .btn-block {
+        margin: 0;
+    }
+
+    .block_content {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .benefits {
+        padding: 30px 15px;
+    }
+
+    .pricing {
+        padding: 30px 15px 40px 15px;
+    }
+
+    .price_list {
+        padding: 90px 15px 15px 15px;
+        margin-bottom: 90px;
+    }
+
+    .price_des p {
+        font-size: 12px;
+    }
+
+    .btn-price {
+        margin-bottom: -50px;
+    }
+
+    .price_button {
+        padding-top: 10px;
+    }
+
+    .price p {
+        font-size: 25px !important;
+    }
+
+    .advprc_card h4 {
+        font-size: 12px;
+        padding: 5px;
+    }
+
+    .flogo img {
+        width: 40%;
+    }
+
+    .flogo {
+        width: 50%;
+    }
+
+    .social {
+        width: 35%;
+    }
+
+    .social ul li a i {
+        font-size: 13px;
+    }
+
+    .social ul li {
+        width: 30px;
+        height: 30px;
+    }
+
+    .block_image {
+        display: none;
+    }
+
+    .block_lg {
+        display: block;
+    }
+}
+
+@media(max-width:425px) {
+
+    .hero {
+        min-height: 60vh;
+    }
+
+    .navbar-brand img {
+        width: 80%;
+    }
+
+    .hero_overlay::before {
+        width: 100%;
+        padding: 0px 15px;
+        height: 60vh;
+    }
+
+    .flogo img {
+        width: 65%;
+    }
+
+    .flogo {
+        width: 50%;
+    }
+
+    .social {
+        width: 50%;
+    }
+
+    .social ul li a i {
+        font-size: 13px;
+    }
+
+    .social ul li {
+        width: 30px;
+        height: 30px;
+    }
+
+    .block_image {
+        display: none;
+    }
+
+    .block_lg {
+        display: block;
+    }
+
+    .price_lg_card {
+        width: auto;
+        margin: auto;
+    }
+}
