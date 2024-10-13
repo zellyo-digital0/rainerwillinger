@@ -1,4 +1,2 @@
-# rainerwillinger
+# https://zellyo-digital0.github.io/rainerwillinger
 
-visit: https://faruq05.github.io/rainerwillinger/
-# rainerwillinger
